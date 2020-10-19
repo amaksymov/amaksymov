@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Andrii
 📫 How to reach me: 
-[Blog](https://maksymov.dev)
-Telegram account [@LostTheSea](https://t.me/LostTheSea)
+[Blog](https://maksymov.dev)  
+Telegram account [@LostTheSea](https://t.me/LostTheSea)  
 Email maximov.echo@gmail.com
 <!--
 **amaksymov/amaksymov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
